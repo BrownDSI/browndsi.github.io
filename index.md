@@ -19,4 +19,4 @@ use-site-title: true
 ### Links
 
 * [Main DSI website](http://dsi.brown.edu)
-* [Internal DSI maseter's student website](https://sites.google.com/brown.edu/dsi-students/)
+* [Internal DSI master's student website](https://sites.google.com/brown.edu/dsi-students/)
