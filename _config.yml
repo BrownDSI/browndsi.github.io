@@ -24,7 +24,6 @@ description: Links for DSI master's students
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
-  Assignments: "assignments"
   Schedule: "schedule"
   Resources:
     - Data Gymnasia: "https://mathigon.org/data-gymnasia"
@@ -46,7 +45,7 @@ title-img: "/img/dsi-logo.png"
 # By default, the navigation bar and footer have a light gray background, and the main page
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
-navbar-col: "#c68c53"
+navbar-col: "#b3ccff"
 # navbar-img: "/img/bgimage.png"
 # footer-col: "blue"
 # footer-img: "/img/bgimage.png"
