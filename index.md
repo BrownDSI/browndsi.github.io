@@ -12,7 +12,8 @@ use-site-title: true
 * [DATA 1050](https://data1050.github.io)
 * [DATA 2020](https://data-2020.github.io)
 * [DATA 2040](https://data2040.github.io)
-* DATA 2080
+* [DATA 2080](https://data2080.github.io)
+* [DATA 2050](https://data2050.github.io)
 
 ---
 
