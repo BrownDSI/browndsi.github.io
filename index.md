@@ -10,9 +10,9 @@ use-site-title: true
 * [DATA 1010](https://data1010.github.io)
 * [DATA 1030](https://data1030.github.io)
 * [DATA 1050](https://data1050.github.io)
-* [DATA 2020](https://data-2020.github.io) [[zoom link]](https://brown.zoom.us/j/141462255)
-* [DATA 2040](https://data2040.github.io) [[zoom link]](https://brown.zoom.us/j/793837964)
-* [DATA 2080](https://data2080.github.io) [[zoom link]](https://brown.zoom.us/j/990486836)
+* [DATA 2020](https://data-2020.github.io)
+* [DATA 2040](https://data2040.github.io)
+* [DATA 2080](https://data2080.github.io)
 * [DATA 2050](https://data2050.github.io)
 
 ---
@@ -22,4 +22,4 @@ use-site-title: true
 * [Main DSI website](http://dsi.brown.edu)
 * [Internal DSI master's student website](https://sites.google.com/brown.edu/dsi-students/)
 * [Student Resource Book](https://drive.google.com/file/d/0BwRE3sxxBijAS0FFN2JTTUhiNTFIYXY1UzJUOTlhaVFQNEdr)
-* [Regional data science events](events)
+* [Summer preparation](summerprep.html)
