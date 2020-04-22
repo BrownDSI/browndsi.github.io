@@ -22,4 +22,5 @@ use-site-title: true
 * [Main DSI website](http://dsi.brown.edu)
 * [Internal DSI master's student website](https://sites.google.com/brown.edu/dsi-students/)
 * [Student Resource Book](https://drive.google.com/file/d/0BwRE3sxxBijAS0FFN2JTTUhiNTFIYXY1UzJUOTlhaVFQNEdr)
+* [COVID-19 Data Tutorial](covid19)
 * [Summer preparation](summerprep)
