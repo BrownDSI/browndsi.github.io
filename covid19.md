@@ -9,7 +9,7 @@ On April 21 at 4 PM, we held a video tutorial session with 154 participants for 
 
 We used a platform called [Babylon House](https://babylon.house) to enable interactivity via chat. A Google Colab notebook with the Babylon House script and code, as well as the video recording, are available here: 
 
-[Colab notebook](https://colab.research.google.com/drive/12IyckouU_Mqr9x5uTNvFyVuJ2ZGO5g9m)  
-[Video](https://brown.zoom.us/rec/share/zMpoEeqs819LS9LTwnr9B7wfO47Ceaa80SdM_vJfnxtqiFmaeXLS4EHr7dF7PYdR)
+* [Colab notebook](https://colab.research.google.com/drive/12IyckouU_Mqr9x5uTNvFyVuJ2ZGO5g9m)  
+* [Video](https://brown.zoom.us/rec/share/zMpoEeqs819LS9LTwnr9B7wfO47Ceaa80SdM_vJfnxtqiFmaeXLS4EHr7dF7PYdR)
 
 A Brown login is required to watch the video, but the Colab notebook is recommended as the more efficient source anyway.
