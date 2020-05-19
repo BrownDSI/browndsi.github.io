@@ -21,14 +21,14 @@ Please sign up for Mathigon with my teacher code, which I will email to you. You
 
 ### Babylon House
 
-The class session will be facilitated using Babylon House; please go ahead and join the BH class [here](https://babylon.house/projects/a5543fce-71d1-4256-89cd-70845ee2cafb/join)
+The class session will be facilitated using Babylon House; please go ahead and join the BH class [here](https://babylon.house/projects/a5543fce-71d1-4256-89cd-70845ee2cafb/join).
 
 You can see a video on Babylon House for instructors on the landing page [https://babylon.house](https://babylon.house), and you can see a shorter student guide in [this video](https://youtu.be/RZB2W1R3t3c).
 
 Please sign up [here](https://airtable.com/shrk33dRL7QMDTr52) to indicate that you are participating.
 
 
-## Resources
+## Other Resources
 
 * [Summer learning objectives cheatsheet](docs/cheatsheets/prelim-cheatsheet.pdf)
 * [Independent learning resources](https://airtable.com/shr7NtBSsaay7nSzD)
