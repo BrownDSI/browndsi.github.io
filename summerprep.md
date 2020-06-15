@@ -11,7 +11,8 @@ use-site-title: true
 
 * Thursday, May 28 at 12 noon Eastern Time [[recording]](https://brown.zoom.us/rec/share/7MlbEo-q01xJbYHctmLvQK0mFaLjeaa803VP-vMFyE_FxR8Cm66a77hN7qT0bvoV)
 * Thursday, June 04 at 12 noon Eastern Time. [[recording]](https://brown.zoom.us/rec/share/-8dKAJjI-EJJSYXdxGvPaLYAL5XKX6a823QYqaAOzBozrR2lpktVRdnOr6LqeaDG)
-* Thursday, June 11 at 12 noon Eastern Time. [[Zoom link]](https://brown.zoom.us/j/94575712174) [[BH Link]](https://babylon.house/projects/a5543fce-71d1-4256-89cd-70845ee2cafb/join)
+* Thursday, June 11 at 12 noon Eastern Time. [[recording]]()
+* Thursday, June 18 at 12 noon Eastern Time. 
 
 ### Logistics
 
@@ -19,7 +20,7 @@ Starting on Thursday, May 28 at 12 PM noon Eastern Time, we began holding live s
 
 ### Content 
 
-For the first session, we will treat the first four sections of the [Data Science Pipeline course](https://mathigon.org/course/intro-data-pipeline/introduction). 
+For the first few sessions, we treated the first four sections of the [Data Science Pipeline course](https://mathigon.org/course/intro-data-pipeline/introduction). Beginning on June 18, we'll start talking about data visualization using Plotly Express.
 
 We recommend that you work through those sections prior to class, but you are welcome to participate whether you do or not. If you don't have experience with Python, or if you want a refresher, you might also complete some of the sections in the [Intro to Python course](https://mathigon.org/course/programming-in-python/introduction).
 
