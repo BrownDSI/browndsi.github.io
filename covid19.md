@@ -24,6 +24,8 @@ On 12 PM on Friday, June 5, we discussed methods for estimating the crucially im
 
 ## Day 3
 
-Next time, **Friday, June 19 at 12 PM Eastern Time**, we'll continue our discussion of Rₜ estimation (though we will develop the content in a way which facilitates participation for those who didn't attend Day 2). 
+Next time, **Friday, June 19 at 12 PM Eastern Time**, we continued our discussion of Rₜ estimation (though developed the content in a way which facilitates participation for those who didn't attend Day 2). 
+
+The content from this session is available at [this GitHub repo](https://github.com/sswatson/covid19tutorial).
 
 The Babylon House [link](https://babylon.house/projects/9282c066-ff77-46d2-8a63-394af6ff5105/join) is the same as for the previous meetings, and the Zoom link is [here](https://brown.zoom.us/j/99191779389). 
