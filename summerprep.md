@@ -9,12 +9,14 @@ use-site-title: true
 
 ### Dates
 
-* Thursday, May 28 at 12 noon Eastern Time [[recording]](https://brown.zoom.us/rec/share/7MlbEo-q01xJbYHctmLvQK0mFaLjeaa803VP-vMFyE_FxR8Cm66a77hN7qT0bvoV)
-* Thursday, June 04 at 12 noon Eastern Time. [[recording]](https://brown.zoom.us/rec/share/-8dKAJjI-EJJSYXdxGvPaLYAL5XKX6a823QYqaAOzBozrR2lpktVRdnOr6LqeaDG)
-* Thursday, June 11 at 12 noon Eastern Time. [[recording]](https://brown.zoom.us/rec/share/2Ol_KZSq-FpJfdLo2lPNQKwrILWiX6a80yZPrKAOy0bM3LIYVQCQzUkMhQGcaaR1?startTime=1591890486000)
-* Thursday, June 18 at 12 noon Eastern Time. [[recording]](
+* Thursday, May 28. [[recording]](https://brown.zoom.us/rec/share/7MlbEo-q01xJbYHctmLvQK0mFaLjeaa803VP-vMFyE_FxR8Cm66a77hN7qT0bvoV)
+* Thursday, June 04. [[recording]](https://brown.zoom.us/rec/share/-8dKAJjI-EJJSYXdxGvPaLYAL5XKX6a823QYqaAOzBozrR2lpktVRdnOr6LqeaDG)
+* Thursday, June 11. [[recording]](https://brown.zoom.us/rec/share/2Ol_KZSq-FpJfdLo2lPNQKwrILWiX6a80yZPrKAOy0bM3LIYVQCQzUkMhQGcaaR1?startTime=1591890486000)
+* Thursday, June 18. [[recording]](
 https://brown.zoom.us/rec/share/_vNtFZPUqWxLYa_17R-EC5xwHITlaaa8hCcf_6YImB4yMESBGW8HUSGr6MmMbe6t)
-* Thursday, June 15 at 12 noon Eastern Time. [[Zoom link]](https://brown.zoom.us/j/94575712174) [[BH Link]](https://babylon.house/projects/a5543fce-71d1-4256-89cd-70845ee2cafb/join)
+* Thursday, June 25. [[recording]](https://brown.zoom.us/rec/share/y8lFDIys1WxOHoXKsVyHUOkQRam5aaa8hHMbq_NbxBHrKLT8tVW54Nd_CGWgvsw)
+* Thursday, July 2 at 12 noon Eastern Time. [[Zoom link]](https://brown.zoom.us/j/94575712174) [[BH Link]](https://babylon.house/projects/a5543fce-71d1-4256-89cd-70845ee2cafb/join)
+
 
 ### Logistics
 
