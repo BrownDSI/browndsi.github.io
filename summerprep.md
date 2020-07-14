@@ -16,7 +16,8 @@ use-site-title: true
 https://brown.zoom.us/rec/share/_vNtFZPUqWxLYa_17R-EC5xwHITlaaa8hCcf_6YImB4yMESBGW8HUSGr6MmMbe6t) [[script]](https://babylon.house/shared/MWA4-37CO)
 * Thursday, June 25. [[recording]](https://brown.zoom.us/rec/share/y8lFDIys1WxOHoXKsVyHUOkQRam5aaa8hHMbq_NbxBHrKLT8tVW54Nd_CGWgvsw) [[script]](https://babylon.house/shared/G8N0-PW5H)
 * Thursday, July 2. [[recording]](https://brown.zoom.us/rec/share/3PErc7LcyztIZbfC2kzjdKliL6Liaaa82yMc8vVZn0fEsE7Mpqt75tIJZOiH-87D?startTime=1593705149000) [[script]](https://babylon.house/shared/448T-DUJK)
-* Thursday, July 9 at 12 noon Eastern Time. [[Zoom link]](https://brown.zoom.us/j/94575712174) [[BH Link]](https://babylon.house/projects/a5543fce-71d1-4256-89cd-70845ee2cafb/join)
+* Thursday, July 9 at 12 noon Eastern Time. [[recording]](https://brown.zoom.us/rec/share/w5RLKa_K00RJGqPh60-DZYMmE93UT6a80CQf__UOz0rHtV4uUdJfmNRI2l2wdyO1?startTime=1594309281000) [[script]](https://babylon.house/shared/GLJ6-UKFA)
+* Thursday, July 16 at 12 noon Eastern Time. [[Zoom link]](https://brown.zoom.us/j/94575712174) [[BH Link]](https://babylon.house/projects/a5543fce-71d1-4256-89cd-70845ee2cafb/join)
 
 
 ### Logistics
