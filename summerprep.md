@@ -21,7 +21,8 @@ https://brown.zoom.us/rec/share/_vNtFZPUqWxLYa_17R-EC5xwHITlaaa8hCcf_6YImB4yMESB
 * Thursday, July 23 at 12 noon Eastern Time. [[recording]](https://brown.zoom.us/rec/share/_OZyMer8p0RJHoXSsxzgfbcwE9v4eaa82nAWq6Bcy00573G5hOAjroew0sUUV31h?startTime=1595519536000) [[script]](https://prismia.chat/shared/LK3B-1JCR)
 * Thursday, July 30. [[recording]](https://brown.zoom.us/rec/share/tZZ_cZbS815OcoGVthyBc6kMQ8fJT6a81CBN_ftcyx0A7Xtr5JawnPZu_KOdp8nA?startTime=1596123701000) [[script]](https://prismia.chat/shared/XXBA-AD5G)
 * Thursday, August 6. [[recording]](https://brown.zoom.us/rec/share/tPY2BpPR331JSYHSwXjtR6U6QIPeeaa8gHIYrPVZzBS1vKRwKCw_89YjRPbsmF8?startTime=1596728729000)
-* Thursday, August 13 at 12 noon Eastern Time. [[Zoom link]](https://brown.zoom.us/j/94575712174) [[BH Link]](https://prismia.chat/projects/a5543fce-71d1-4256-89cd-70845ee2cafb/join)
+* Thursday, August 13. [[recording]](https://brown.zoom.us/rec/share/2Od2NeHfyD1IEqPz6F31UasQO97MT6a8gHJN-qYOz04g3ftFLhA1WEGyBqQub8zP)
+* Thursday, August 20 at 12 noon Eastern Time. [[Zoom link]](https://brown.zoom.us/j/94575712174) [[BH Link]](https://prismia.chat/projects/a5543fce-71d1-4256-89cd-70845ee2cafb/join)
 
 
 ### Logistics
